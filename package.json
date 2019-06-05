@@ -45,7 +45,7 @@
     "ora": "^2.0.0",
     "read": "^1.0.7",
     "rimraf": "^2.6.2",
-    "yargs": "^11.0.0"
+    "yargs": "^13.2.4"
   },
   "devDependencies": {
     "eslint": "^4.17.0",
